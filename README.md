@@ -1,3 +1,5 @@
+The above is a project set by CSULB's MSIS program using Andrej Karpathy's easy to follow nanogpt build using the Star Wars: Thrawn trilogy written by Timothy Zahn in the early 90s.
+below is the remained of the included README written by Mr. Karpathy and included for transparency.
 
 # nanogpt-lecture
 
